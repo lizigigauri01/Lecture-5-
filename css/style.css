@@ -27,7 +27,7 @@ li {
 
 a {
 	font-size: 26px;
-	color: #4E6FAE;
+	color: #8D81FF;
 	font-weight: 700;
 }
 
@@ -51,12 +51,14 @@ h3 {
 	font-size: 24px;
 	color: #8D81FF;
 	margin-bottom: 14px;
+	font-family: 'BPG Nino Mkhedruli', sans-serif;
 }
 h4 {
 	font-size: 20px;
 	color: #4E6FAE;
 	font-weight: 700;
 	margin-bottom: 14px;
+	font-family: "BPG Arial Caps", sans-serif;
 }
 
 p {
@@ -64,7 +66,6 @@ p {
 	line-height: 19px;
 	color: #4E6FAE;
 	margin-bottom: 16px;
-	font-family: 'FiraGO';
 }
 
 h6 {
@@ -72,7 +73,6 @@ h6 {
 	line-height: 19px;
 	color: #4E6FAE;
 	margin-bottom: 2px;
-	font-family: 'FiraGO';
 }
 
 .pirveli {
@@ -90,7 +90,9 @@ h6 {
 	width: 778px;
 	display: inline-block;
 	vertical-align: top;
+	font-family: "BPG Square", sans-serif;
 }
+
 
 
 
@@ -105,6 +107,7 @@ h6 {
 	width: 778px;
 	display: inline-block;
 	vertical-align: top;
+	font-family: 'BPG Square', sans-serif;
 }
 
 
@@ -118,6 +121,8 @@ h6 {
 .pbox3 {
 	width: 1021px;
 	height: 148px;
+	font-family: 'BPG Nostalgia', sans-serif;
+	font-weight: 1000;
 }
 
 
@@ -159,20 +164,20 @@ footer {
 /*SHUA*/
 
 .siaxl {
-	font-family: 'FiraGO';
 	width: 150px;
 	height: 34px;
 	font-size: 26px;
 	color: #4E6FAE;
 	font-weight: bold;
+	font-family: "BPG Arial Caps", sans-serif;
 }
 
 .ixile {
 	width: 484px;
 	height: 34px;
-	font-family: 'FiraGO';
 	font-size: 26px;
 	color: #4E6FAE;
+	font-family: "BPG Arial Caps", sans-serif;
 }
 
 h5 {
@@ -197,6 +202,7 @@ h5 {
 	width: 500px;
 	height: 192px;
 	margin-right: 52px;
+	font-family: 'Roboto', sans-serif;
 }
 
 .lupa {
@@ -226,6 +232,7 @@ h5 {
 	width: 500px;
 	height: 192px;
 	display: inline-block;
+	font-family: 'Roboto', sans-serif;
 }
 
 .mark {
@@ -322,9 +329,9 @@ h5 {
 .p1 {
 	width: 474px;
 	height: 34px;
-	font-family: 'Helvetica Neue';
 	font-size: 36px;
 	color: #4E6FAE;
+	font-weight: 700;
 }
 
 .p2 {
@@ -332,6 +339,7 @@ h5 {
 	height: 24px;
 	font-size: 20px;
 	color: #7E8898;
+	font-family: "BPG Algeti", sans-serif;
 }
 
 .p3 {
@@ -339,6 +347,7 @@ h5 {
 	height: 34px;
 	font-size: 20px;
 	color: #7E8898;
+	font-family: "BPG Algeti", sans-serif;
 }
 
 .p4 {
@@ -346,6 +355,7 @@ h5 {
 	height: 34px;
 	font-size: 20px;
 	color: #7E8898;
+	font-family: "BPG Algeti", sans-serif;
 }
 
 .footer_kontaqtebi {
