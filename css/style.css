@@ -1,0 +1,354 @@
+.body1 {
+	height: 2392px;
+	margin-left: 52px;
+}
+
+/*HEADERI*/
+
+.header1 {
+	margin-bottom: 50px;
+	padding-top: 54px;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	font-size: 26px;
+	color: #4E6FAE;
+	font-weight: 700;
+}
+
+
+
+/*YVELA ARTIKLIS h3,h4,p,h6 da div-i*/
+
+section {
+	margin-bottom: 80px;
+}
+.Bbox {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	padding: 12px;
+	margin-bottom: 18px;
+}
+h3 {
+	font-size: 24px;
+	color: #8D81FF;
+	margin-bottom: 14px;
+}
+h4 {
+	font-size: 20px;
+	color: #4E6FAE;
+	font-weight: 700;
+	margin-bottom: 14px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 16px;
+	font-family: 'FiraGO';
+}
+
+h6 {
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 2px;
+	font-family: 'FiraGO';
+}
+
+.pirveli {
+	color: darkblue;
+}
+
+/*1 ARTIKLI*/
+
+.pic1 {
+	margin-right: 66px;
+	margin-top: 14px;
+}
+
+.pbox1 {
+	width: 778px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+
+/*2 ARTIKLI*/
+
+.pic2 {
+	margin-right: 66px;
+	margin-top: 14px;
+}
+
+.pbox2 {
+	width: 778px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+/*3 ARTIKLI*/
+
+.pic3 {
+	margin-bottom: 32px;
+	margin-top: 14px;
+}
+
+.pbox3 {
+	width: 1021px;
+	height: 148px;
+}
+
+
+
+/*FOOTERI*/
+
+.facebook {
+	margin-right: 41px;
+}
+
+.youtube {
+	margin-left: 41px;
+}
+
+footer {
+	margin-bottom: 285px;
+}
+
+
+
+
+
+/*SIAXLEEEEEEBI*/
+
+.body2 {
+	height: 1353px;
+	width: 1440px;
+}
+
+.header2 {
+	margin-left: 52px;
+	padding-top: 54px;
+}
+
+.meore {
+	color: darkblue;
+}
+
+/*SHUA*/
+
+.siaxl {
+	font-family: 'FiraGO';
+	width: 150px;
+	height: 34px;
+	font-size: 26px;
+	color: #4E6FAE;
+	font-weight: bold;
+}
+
+.ixile {
+	width: 484px;
+	height: 34px;
+	font-family: 'FiraGO';
+	font-size: 26px;
+	color: #4E6FAE;
+}
+
+h5 {
+	display: inline-block;
+}
+
+.line2 {
+	margin-left: 18px;
+	margin-right: 17px;
+}
+
+.siaxleebis_ch {
+	margin-bottom: 26px;
+	margin-top: 120px;
+}
+
+
+/*PIRVELI BOXI*/
+
+.text1 {
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	margin-right: 52px;
+}
+
+.lupa {
+	padding: 29px 37px 41px 36px;
+}
+
+
+.img_p {
+	display: inline-block;
+	width: 335px;
+	height: 95px;
+	vertical-align: top;
+	padding-top: 20px;
+	padding-bottom: 32px;
+	padding-right: 15px;
+	font-size: 16px;
+	color: #7E8898;
+}
+
+
+
+
+/*MEORE BOXI*/
+
+.text2 {
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+}
+
+.mark {
+	padding: 23px 21px 35px 38px;
+}
+
+.img2_p {
+	display: inline-block;
+	width: 335px;
+	height: 95px;
+	vertical-align: top;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	padding-right: 17px;
+	font-size: 16px;
+	color: #7E8898;
+}
+
+
+/*ORIVE zemo-p*/
+
+.upper_p {
+	height: 24px;
+	padding-top: 21px;
+	padding-left: 29px;
+	font-size: 20px;
+	color: #3F4145;
+}
+
+
+
+
+
+/*SEKCIEBIS DASHOREBA*/
+
+.sectionn {
+	display: inline-block;
+}
+
+.footer_siaxleebi {
+	padding-top: 30px;
+}
+
+.whole {
+	margin-left: 194px;
+	margin-top: 97px;
+}
+
+
+
+
+/*KONTAQTEBI*/
+
+
+.body3 {
+	height: 1199px;
+	width: 1660px;
+}
+
+.header3 {
+	margin-left: 52px;
+	padding-top: 54px;
+	padding-bottom: 43px;
+}
+
+.mesame {
+	color: darkblue;
+}
+
+.Cont  {
+	background-color: #E7E7E7;
+	width: 1660px;
+	height: 550px;
+	margin-left: 0px;
+}
+
+.contacts {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 162px;
+	padding-top: 93px;
+}
+
+
+.maps {
+	padding-right: 80px;
+	padding-bottom: 93px;
+	padding-top: 70px;
+	width: 700px;
+	height: 399px;
+	display: inline-block;
+}
+
+.p1 {
+	width: 474px;
+	height: 34px;
+	font-family: 'Helvetica Neue';
+	font-size: 36px;
+	color: #4E6FAE;
+}
+
+.p2 {
+	width: 307px;
+	height: 24px;
+	font-size: 20px;
+	color: #7E8898;
+}
+
+.p3 {
+	width: 217px;
+	height: 34px;
+	font-size: 20px;
+	color: #7E8898;
+}
+
+.p4 {
+	width: 434px;
+	height: 34px;
+	font-size: 20px;
+	color: #7E8898;
+}
+
+.footer_kontaqtebi {
+	margin-left: 96px;
+	padding-top: 52px;
+}
